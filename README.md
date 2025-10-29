@@ -1,4 +1,4 @@
-# Job Description Scraper Framework
+# Job Description Analysis Framework
 
 A flexible, extensible framework for scraping and analyzing job postings from various career sites. This project supports multiple scraper patterns to handle different site architectures, authentication requirements, and anti-bot measures.
 
