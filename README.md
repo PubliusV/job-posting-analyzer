@@ -61,7 +61,7 @@ Required packages:
 
 ### Configuration
 
-1. **Set API Keys** in `constants.py`:
+1. **Set API Keys** somewhere in your **LOCAL** project or in your environment variables (remember, never commit credentials to GitHub, please):
 ```python
 OPENAI_API_KEY = "your-key-here"
 LANG_TOOLS_UNAME = "your-username"
