@@ -1,0 +1,11 @@
+selenium
+beautifulsoup4
+pandas
+openai
+requests
+nltk
+lxml
+htmlmin
+usp
+undetected-chromedriver
+tenacity
