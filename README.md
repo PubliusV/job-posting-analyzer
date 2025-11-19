@@ -4,7 +4,7 @@ A flexible, extensible framework for scraping and analyzing job postings from va
 
 ## 🚧 Functionality
 
-This code is redacted/anonymized and business logic has been altere/simplified in order to preserve confidentiality. While the code should remain functional, the anonymization process meant replacing working links with samples (i.e. jobs.example.com) and recoding some variable names, so don't expect to be able to download this code and simply run it without issue. Its purpose here is to showcase how I write code and data processing pipelines.
+This code is redacted/anonymized and business logic has been altered/simplified in order to preserve confidentiality. While the code should remain functional, the anonymization process meant replacing working links with samples (i.e. jobs.example.com) and recoding some variable names, so don't expect to be able to download this code and simply run it without issue. Its purpose here is to showcase how I write code and data processing pipelines.
 
 ## 🎯 Features
 
